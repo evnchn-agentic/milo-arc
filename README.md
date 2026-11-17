@@ -47,6 +47,8 @@ Kitchen chemistry on Milo → dry-mixing as physical dispersion → cross-domain
 
 [`transcript.md`](./transcript.md) — original mistakes preserved. Evan's first turn asked a concrete chemistry question and gave Claude the permission to wander; Claude wandered. The wandering is the method. One minor redaction: a proper-noun reference to a private project was generalised; nothing else was changed.
 
+[`FACTCHECK.md`](./FACTCHECK.md) — Claude's claims checked against primary sources in November 2026. 2 were wrong, including the Gick & Holyoak result behind the silo's fourth layer: people were not blind to the analogy, and studying two examples instead of one raised unprompted solving from 21% to 45%.
+
 ---
 
 *Read the [Agentic Generalist Primer →](https://github.com/evnchn-agentic/.github/blob/main/AGENTIC_GENERALIST_PRIMER.md) and the [agentic-learning thinker philosophy →](https://github.com/evnchn-agentic/.github/blob/main/PHILOSOPHY_THINKER.md).*
